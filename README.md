@@ -1,4 +1,4 @@
-Hi, I'm Fen. I do things.
+I do things.
 
 <!--
 **awayfromcasual/awayfromcasual** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
